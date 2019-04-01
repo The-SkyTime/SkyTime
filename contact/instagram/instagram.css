@@ -3,10 +3,6 @@ body {
     padding: 0px;
 }
 
-#login {
-    float: right;
-}
-
 section, footer {
     padding: 20px;
 }
@@ -94,10 +90,6 @@ li a:hover:not(.active) {
     text-decoration: none;
     display: block;
     text-align: left;
-}
-
-.dropdown-content a:hover {
-    background-color: #ddd;
 }
 
 .dropdown:hover .dropdown-content {
