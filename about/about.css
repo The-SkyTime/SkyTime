@@ -100,6 +100,14 @@ li a:hover:not(.active) {
     display: block;
 }
 
+article {
+    border: 3px solid black;
+    margin: 5px auto 2px 2px;
+}
+
+.art1 {
+    border: 0px;
+}
 
 /* Responsive */
 
